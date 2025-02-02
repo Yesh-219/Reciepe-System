@@ -1,0 +1,13 @@
+.back{
+  background-color: black;
+}
+.ie{
+  height: 35vh;
+  width: 15vw;
+  size: cover;
+  border-radius: 20px;
+}
+.page{
+  margin: 2px;
+  padding: auto;
+}
